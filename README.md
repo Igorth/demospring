@@ -42,6 +42,7 @@ The body of the POST method is a JSON and must contain:
             }
 
 
+![Spring Boot API](https://user-images.githubusercontent.com/6334925/133496233-116a95fa-8d65-40a7-8a30-5782d05ec98c.jpeg)
 
 
 [Site]( https://igordiasth.dev)
